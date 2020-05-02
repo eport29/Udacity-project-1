@@ -13,18 +13,17 @@ Questions that will be investigated:
 Includes a jupyter notebook and its HTML form.
 CSV file of the dataset - variables include:
 
-User_ID
-
-Product_ID
-Gender
-Age
-Occupation
-City_Category
-Stay_In_Current_City_Years
-Marital_Status
-Product_Category_1- Cloths
-Product_Category_2- Electronics
-Product_Category_3 - Home Goods
+User_ID, 
+Product_ID, 
+Gender, 
+Age, 
+Occupation, 
+City_Category, 
+Stay_In_Current_City_Years, 
+Marital_Status, 
+Product_Category_1- Cloths, 
+Product_Category_2- Electronics, 
+Product_Category_3 - Home Goods, 
 
 
 
