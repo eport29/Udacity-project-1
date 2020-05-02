@@ -11,7 +11,9 @@ Questions that will be investigated:
 
 ## File descriptions
 Includes a jupyter notebook and its HTML form.
-CSV file of the dataset - variables include:
+
+CSV file of the dataset is a sample of the transactions made from a retail store. Objective of the store  was to better understand customer purchase behaviour against different products. 
+12 variables include:
 
 User_ID, 
 Product_ID, 
@@ -24,6 +26,7 @@ Marital_Status,
 Product_Category_1- Cloths, 
 Product_Category_2- Electronics, 
 Product_Category_3 - Home Goods, 
+Purchase 
 
 
 
@@ -34,12 +37,13 @@ Interpretation of the results can be found on this blog [post] (https://medium.c
 
 
 ## Sources
+https://www.kaggle.com/alllexander/blackfriday
 
+https://www.kaggle.com/gloriousc/black-friday-analysis#data
 
 [https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/][1]
 
 https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
 
-https://www.kaggle.com/sdolezel/black-friday
-
 https://kite.com/python/examples/1870/matplotlib-change-x-axis-tick-labels
+
