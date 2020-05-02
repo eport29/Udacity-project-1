@@ -1,32 +1,18 @@
 ## Installation
-Project uses Jupyter Notebook, running Python 3 with the libraries numpy, pandas, matplotlib,
+Project uses Jupyter Notebook, running Python 3 with the libraries numpy, pandas, matplotlib, sklearn, and seaborn
 ## Project Motivation
-Question 1: The programming language preferred by non-professionals 
-Question 2: Self-care  observations of all those who took the survey.
-Question 3: Job satisfaction and language 
+Question 1: What is the gender and age distribution?
+Question 2: What is the purchase amount across age?
+Question 3: Is there a correlation between the product type, age, occupation, marital status and purchase?
 
 ## File descriptions
-Includes a jumpier notebook 
+Includes a jupyter notebook and its HTML form.
+CSV file of the dataset
 
-Blog 
+
 
 ## Results
-Throughout the notebook, I sought to answer three  general questions:
-
-Questions that pertain to the new coders such as language 
-
-How is the self-care of the individual 
-
-Which programming language has the highest job satisfaction?
-
-Data showed:
-
-JavaScript, C#, Java, SQL and Python are the most used languages by professional developers and therefore would be the most in demand and transferable skill between jobs. To support this, the most used frameworks are mostly JavaScript based. Agile is also the most popular methodology used by professional developers.
-
-Languages that are known and used by less professionals warrant higher salaries.
-
-Those who use less popular languages have higher job satisfaction but this may be a correlation between salary and job satisfaction.
-
+Interpretation of the results can be found on this blog [post] (https://medium.com/@erik.port29/first-data-science-blog-post-4c4187b8aa2e)
 
 
 ## Sources
@@ -34,4 +20,8 @@ Those who use less popular languages have higher job satisfaction but this may b
 
 [https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/][1]
 
-[1]:	https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
+https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
+
+https://www.kaggle.com/sdolezel/black-friday
+
+https://kite.com/python/examples/1870/matplotlib-change-x-axis-tick-labels
