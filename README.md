@@ -7,7 +7,7 @@ For my first project, I was interestested in using the Black Friday Dataset from
 Questions that will be investigated:
 1: What is the gender and age distribution?
 2: What is the purchase amount across age?
-3: Is there a correlation between the product type, age, occupation, marital status and purchase?
+3: Is there a correlation between the product type, age, occupation, marital status on purchase?
 
 ## File descriptions
 Includes a jupyter notebook and its HTML form.
