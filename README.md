@@ -14,6 +14,7 @@ Includes a jupyter notebook and its HTML form.
 CSV file of the dataset - variables include:
 
 User_ID
+
 Product_ID
 Gender
 Age
