@@ -33,6 +33,8 @@ Purchase
 
 
 ## Results
+Link to repository with my [code](https://github.com/eport29/Udacity-project-1)
+
 Interpretation of the results can be found on this blog [post] (https://medium.com/@erik.port29/first-data-science-blog-post-4c4187b8aa2e)
 
 
